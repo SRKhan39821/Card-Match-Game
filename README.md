@@ -32,16 +32,6 @@ https://github.com/Anindyait/Memory-Game/assets/91337664/4678dc74-9bef-4b13-aaa5
 ## Use
 Clone the repo
 ```sh
-git clone https://github.com/Anindyait Memory-Game
 ``` 
 Open the repository using Unity
-Made using <b>Unity 2022.3.7f1</b>
-# 
-# Play
-- Play on web - https://anindya5.itch.io/flipper
-###
-- Download, unzip and play on Windows - <a href="https://github.com/Anindyait/Memory-Game/releases/download/Windows/Windows.zip">Windows Version</a>
-###
-- Download, unzip and play on Linux - <a href="https://github.com/Anindyait/Memory-Game/releases/download/Linux/Linux.zip">Linux Version</a>
-
 

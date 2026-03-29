@@ -21,10 +21,3 @@
 ![4x4 Grid](Pictures/4x4game.png)
 ![6x6 Grid](Pictures/6x6game.png)
 ![Success](Pictures/success.png)
-
-## Use
-Clone the repo
-```sh
-``` 
-Open the repository using Unity
-

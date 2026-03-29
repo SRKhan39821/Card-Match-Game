@@ -12,13 +12,6 @@
 ## Gameplay
 
 
-
-
-https://github.com/Anindyait/Memory-Game/assets/91337664/4678dc74-9bef-4b13-aaa5-a8d9e5e28e4d
-
-
-
-
 - Each image appears twice in the grid, you have to find every pair to win the game.
 
 - The game has 2 modes, an easy 4x4 mode and a tough 6x6 mode.
